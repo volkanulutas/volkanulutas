@@ -1,10 +1,3 @@
-
-
-### Volkan Ulutas Github Page  
-<div align="center">
-</div>  
-  
-
 ### <div align="center">I'm Volkan, an experienced Senior Software Engineer with a demonstrated history of working in the aerospace industry.  👨‍💻 working since 2013 🚀</div>  
   
 
@@ -30,8 +23,7 @@
 
 ### Frontend  
 <div align="center">  
-<a href="https://reactjs.org/" target="_blank"><
-  style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
@@ -114,11 +106,7 @@
 ### Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=volkanulutas&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-
-  
-
 <br/>  
-
 
 
 ### Visitors  
@@ -139,4 +127,3 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
